@@ -1,4 +1,4 @@
-# Ruddibaba Optimizer
+## Computer Spec Optimizer
 
 A powerful Windows optimization tool with multiple optimization levels, built with Python, Typer, and Rich.
 
